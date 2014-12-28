@@ -1,0 +1,27 @@
+{
+  "name": "bsgryan-link",
+  "version": "1.0.0",
+  "description": "A redis wrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:bsgbryan/link.git"
+  },
+  "keywords": [
+    "redis"
+  ],
+  "author": "Bryan Maynard <bsgbryan@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bsgbryan/link/issues"
+  },
+  "homepage": "https://github.com/bsgbryan/link",
+  "dependencies": {
+    "microtime": "^1.1.0",
+    "node-redis": "^0.1.7",
+    "q": "^1.1.2"
+  }
+}
